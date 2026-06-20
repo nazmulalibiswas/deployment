@@ -1,0 +1,121 @@
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][960939] Child process with pid: 960962 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][960939] Child process with pid: 973691 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][960939] Child process with pid: 973711 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1032599] Child process with pid: 1032618 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1037286] Child process with pid: 1038656 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1037286] Child process with pid: 1038740 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1037286] Child process with pid: 1038792 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1037286] Child process with pid: 1038802 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1037286] Child process with pid: 1039282 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1032599] Child process with pid: 1044602 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1085082] Child process with pid: 1085096 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1085082] Child process with pid: 1091688 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter.wsgi'
+[UID:2575][1085082] Child process with pid: 1091806 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter'
+[UID:2575][1125191] Child process with pid: 1125215 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from nazmulalibiswas_2026_CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'nazmulalibiswas_2026_CalorieCounter'
+[UID:2575][1125191] Child process with pid: 1125217 was killed by signal: 15, core dumped: no
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'CalorieCounter.wsgi'
+Traceback (most recent call last):
+  File "/home/ttpjoaar/CalorieCounter/passenger_wsgi.py", line 1, in <module>
+    from CalorieCounter.wsgi import application
+ModuleNotFoundError: No module named 'CalorieCounter.wsgi'
+[UID:2575][1180077] Child process with pid: 1180212 was killed by signal: 15, core dumped: no
+Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "/home/ttpjoaar/virtualenv/CalorieCounter/3.13/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/ttpjoaar/virtualenv/CalorieCounter/3.13/lib/python3.13/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ttpjoaar/virtualenv/CalorieCounter/3.13/lib/python3.13/site-packages/django/contrib/auth/decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/ttpjoaar/CalorieCounter/CalorieCounter/views.py", line 70, in dashboard_page
+    less_more = bmr - total_calorie
+                ~~~~^~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'int' and 'NoneType'
+[UID:2575][1336432] Child process with pid: 1346222 was killed by signal: 15, core dumped: no

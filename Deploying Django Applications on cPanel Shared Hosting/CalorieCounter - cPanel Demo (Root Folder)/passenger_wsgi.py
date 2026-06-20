@@ -1,0 +1,1 @@
+from nazmulalibiswas_2026_CalorieCounter.wsgi import application
